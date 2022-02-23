@@ -1,0 +1,54 @@
+h1{
+    float: none;
+    font-size: 70px;
+    margin-left: 40%;
+}
+header{
+    background-color: white;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+div{
+    padding-bottom: 5px;
+}
+
+img{
+    width: 100%;
+}
+
+div #div1, #div2, #div3{
+    background-color: white;
+}
+
+#left{
+    float: left;
+    width: 35%;
+    margin-left: 20%;
+}
+#right{
+    float: left;
+    width: 15%;
+    margin-left: 5%;
+}
+
+#div1{
+    border: solid black 1px;
+    width: 100%;
+    padding: 10px;
+
+}
+
+#div2{
+    border: solid black 1px;
+    padding: 10px;
+}
+
+#div3 {
+    border: solid black 1px;
+    width: 100%;
+    margin-top: 50px;
+    padding: 10px;
+}
